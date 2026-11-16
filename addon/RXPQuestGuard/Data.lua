@@ -1,0 +1,3 @@
+-- Replaced by RXP Quest Guard Desktop when publishing local quest or route data.
+local _, QG = ...
+QG.data = {schemaVersion = 1, quests = {}, route = {}}

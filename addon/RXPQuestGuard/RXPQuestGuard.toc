@@ -1,0 +1,14 @@
+## Interface: 0
+## Title: RXP Quest Guard
+## Notes: Read-only quest validation and route preflight for RestedXP.
+## Version: 0.5.0
+## OptionalDeps: RXPGuides, TomTom
+## SavedVariablesPerCharacter: RXPQuestGuardSettings, RXPQuestGuardSnapshot
+
+Data.lua
+Engine.lua
+QuestLog.lua
+RestedXP.lua
+Snapshot.lua
+Core.lua
+Window.lua
